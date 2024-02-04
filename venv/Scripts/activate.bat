@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\jorpa\OneDrive\Desktop\PROJECT FILES\Python Projects\python-fastapi\venv
+set VIRTUAL_ENV=C:\Users\PLONGZ\Downloads\python-fastapi\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
